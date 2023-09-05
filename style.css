@@ -1,0 +1,266 @@
+/* Navbar Section*/
+.navbar {
+  background-color: #37517e;
+  opacity: 0.9;
+}
+
+.btn-nav {
+  color: white;
+  border: 2px solid #47b2e4;
+  border-radius: 25px;
+  padding: 10px 25px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #47b2e4;
+}
+
+.btn.btn-nav:visited {
+  border-color: #47b2e4;
+  color: white;
+  background-color: #47b2e4;
+}
+
+.btn-nav:hover {
+  border-color: #47b2e4;
+  background-color: #47b2e4;
+  color: white;
+}
+
+/*Showcase */
+
+.showcase {
+  background-color: #37517e;
+}
+
+.btn-showcase {
+  color: white;
+  border: 2px solid #47b2e4;
+  border-radius: 25px;
+  background-color: #47b2e4;
+  padding: 10px 25px;
+}
+
+.btn-showcase:visited {
+  border-color: #47b2e4;
+}
+
+.btn-showcase:hover {
+  border-color: #209dd8;
+  color: white;
+  background-color: #209dd8;
+}
+
+.i-showcase:hover {
+  color: #47b2e4;
+}
+
+/*Partners */
+
+.partners {
+  background-color: #f3f5fa;
+}
+
+/*About Us*/
+
+#About-h1 {
+  color: #37517e;
+}
+
+#ul-about li {
+  list-style-type: "\2713";
+}
+
+.btn-About {
+  border-radius: 5px;
+  color: #47b2e4;
+  border-color: #47b2e4;
+  padding: 5px 25px;
+}
+
+.btn.btn-About:visited {
+  border-color: #47b2e4;
+  background-color: #47b2e4;
+  color: white;
+}
+
+.btn-About:hover {
+  border-color: #47b2e4;
+  background-color: #47b2e4;
+  color: white;
+}
+
+/*Why Us*/
+.why-us {
+  background-color: #f3f5fa;
+}
+
+.accordion-button:hover {
+  color: #47b2e4;
+}
+
+/*Skills*/
+
+.progress {
+  height: 10px;
+  border-radius: 2px;
+}
+
+.progress-bar {
+  background-color: #37517e;
+}
+
+/*Services*/
+.service {
+  background-color: #f3f5fa;
+}
+
+.card-title-services {
+  color: #47b2e4;
+}
+
+.card-subtitle-services {
+  color: #37517e;
+}
+
+.card-subtitle-services:hover {
+  color: #47b2e4;
+}
+
+/*Call-to-action*/
+#call-to-action {
+  background-image: url(Jpegs/img/cta-bg.jpg);
+  background-color: #37517e;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  opacity: 0.9;
+}
+
+.btn-Action {
+  color: white;
+  border: 2px solid white;
+  padding: 5px 30px;
+  border-radius: 20px;
+}
+
+.btn.btn-Action:visited {
+  color: white;
+  background-color: #47b2e4;
+  border-color: #47b2e4;
+}
+
+.btn-Action:hover {
+  color: white;
+  background-color: #47b2e4;
+  border-color: #47b2e4;
+}
+
+/*Team*/
+.team {
+  background-color: #f3f5fa;
+}
+
+.bi-logos {
+  color: #37517e;
+  border-radius: 50px;
+  background-color: #f3f5fa;
+}
+
+.bi-logos:hover {
+  color: white;
+  background-color: #47b2e4;
+}
+
+.faq {
+  background-color: #f3f5fa;
+}
+
+.faq-btn{
+  color: #37517e;
+}
+
+
+/*Contact*/
+
+form{
+  border-top: 3px solid #47b2e4;
+  border-bottom: 3px solid #47b2e4;
+  border-left: 2px solid #f3f5fa;
+  border-right: 2px solid #f3f5fa;
+}
+
+.btn-form{
+  border-radius: 25px;
+  color:white;
+  background-color:#47b2e4;
+  padding: 10px 30px;
+}
+
+.btn-form:hover{
+  color: white;
+  background-color:#209dd8;
+  border-color: #209dd8;
+
+}
+
+
+/*Newsletter*/
+.newsletter{
+  background-color: #f3f5fa;
+}
+
+.text-newsletter{
+  border-radius: 20px;
+
+}
+
+.btn-newsletter{
+  color: white;
+  background-color: #47b2e4;
+  border-radius: 30px;
+}
+
+.btn-newsletter:hover{
+  color: white;
+  background-color: #209dd8;
+  border-color: #209dd8;
+
+}
+
+/*Mini-footer*/
+.mini-footer-p{
+  font-size: 13px;
+}
+
+.mini-footer-ul a{
+  text-decoration: none;
+}
+
+.mini-footer-ul li{
+  color: black;
+}
+
+.mini-footer-ul li:hover{
+  color: #47b2e4;
+}
+
+
+.bi-footer{
+  color: white;
+  border-radius: 50px;
+  background-color:#47b2e4;
+
+}
+
+.bi-footer:hover{
+  color: white;
+  background-color: #209dd8;
+}
+
+
+/*Main Footer*/
